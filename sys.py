@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#current 1.0
 print '\033[1;42m Welcome to SYS1010 \033[1;m'
 print
 print '\033[1;42m Current ver: 1.0.0 ~ Author JADEWIZARD \033[1;m'
